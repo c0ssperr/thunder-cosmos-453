@@ -7,7 +7,7 @@ services:
     dockerfilePath: ./Dockerfile
     envVars:
       - key: SESSION
-        value: ""
+        value: "RGNK~7rW68DNb"
       - key: DATABASE_URL
         fromDatabase:
           name: my-database
